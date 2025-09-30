@@ -2,7 +2,9 @@
 
 ## Instructions, files, code for Lab 6.
 
-What if you aren't nearby the computer you need to work on?
+In this lab I created a customized webpage that demonstrates HTML and JavaScript concepts. The website is updated with a new name, background color, and description.
+
+<!-- What if you aren't nearby the computer you need to work on?
 
 Up until this point, our Lab activities have been accomplished by doing them on our laptops.
 
@@ -10,7 +12,7 @@ In this activity we explore the concept of "servers."  Which typically aren't lo
 
 We have to connect to them remotely
 
-This Lab explores that concept.
+This Lab explores that concept. -->
 
 
 
